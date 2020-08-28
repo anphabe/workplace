@@ -1354,7 +1354,7 @@ section.lazy-placeholder:after {
   color: #2b59e7;
   position: absolute;
   z-index: 1;
-  content: "\f058";
+  content: "\e978";
   font-weight: 900;
   font-family: "Font Awesome 5 Free";
   left: 0;
