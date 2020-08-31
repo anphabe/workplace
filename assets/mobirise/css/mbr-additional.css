@@ -1650,6 +1650,7 @@ section.lazy-placeholder:after {
   border: 2px solid #3a3535;
   padding-bottom: 0;
   color: #333333;
+  font-family: 'Roboto', sans-serif;
 }
 @media (min-width: 768px) {
   .cid-s8FG1BbmrH .separline .step-wrapper {
