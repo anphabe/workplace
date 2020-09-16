@@ -1533,7 +1533,7 @@ a {
   }
 }
 .cid-saIEm4urge .user_desk {
-  color: #ffffff;
+  color: #eeecec;
 }
 .cid-saIEm4urge H3 {
   color: #ffffff;
@@ -1542,7 +1542,7 @@ a {
   color: #ffffff;
 }
 .cid-saIEm4urge .user_name {
-  color: #ffffff;
+  color: #e4e4e4;
 }
 .cid-saIEm4urge .display-extra {
   font-size: 1.5rem;
@@ -1554,10 +1554,12 @@ a {
 .cid-saIEm4urge .mbri-quote-left:before {
   font-size: 30px;
   margin-right: 20px;
+  opacity: 0.5;
 }
 .cid-saIEm4urge .mbri-quote-right:before {
   font-size: 30px;
   margin-left: 20px;
+  opacity: 0.5;
 }
 .cid-saDGwjjPUb {
   padding-top: 5rem;
