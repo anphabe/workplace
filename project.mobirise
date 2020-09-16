@@ -935,8 +935,8 @@
             ".mbr-section-title": {
               "color": "#ffffff"
             },
-            "option": {
-              "min-height": "1.4em"
+            ".form-control": {
+              "font-size": "1rem!important"
             }
           },
           "_name": "form6",

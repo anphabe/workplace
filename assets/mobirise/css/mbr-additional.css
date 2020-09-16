@@ -1433,8 +1433,8 @@ a {
 .cid-saD9d7D7RR .mbr-section-title {
   color: #ffffff;
 }
-.cid-saD9d7D7RR option {
-  min-height: 1.4em;
+.cid-saD9d7D7RR .form-control {
+  font-size: 1rem!important;
 }
 .cid-saDuKlPG0k {
   padding-top: 6rem;
