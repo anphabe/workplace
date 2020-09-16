@@ -80,7 +80,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-share-1.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/social-share-2.png"
       },
       "components": [
         {
@@ -1388,7 +1388,7 @@
         "title": "Workplace from Facebook I ANPHABE - Thank You",
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-share-1.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/social-share-2.png"
       },
       "components": [
         {
