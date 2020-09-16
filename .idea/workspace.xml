@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="947263ec-72b9-4652-b363-55c9c212e242" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" afterPath="$PROJECT_DIR$/project.mobirise" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publish-hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/publish-hashes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
-    </list>
+    <list default="true" id="947263ec-72b9-4652-b363-55c9c212e242" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,5 +36,15 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="89" key="MergeDialog" timestamp="1600253139183">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="187" y="89" key="MergeDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1600253139183" />
+    <state x="597" y="284" width="723" height="478" key="MultipleFileMergeDialog" timestamp="1600253139195">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="597" y="284" width="723" height="478" key="MultipleFileMergeDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1600253139195" />
   </component>
 </project>
