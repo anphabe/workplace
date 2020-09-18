@@ -38,6 +38,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KG2VC3R');</script>
 <!-- End Google Tag Manager -->
+
+
+
+<script>
+function getUrlVars()
+{
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars;
+}
+
+function keep_url_query(){
+  var query = getUrlVars();
+  if("utm_campaign" in query){
+  	jQuery('[name ="utm_campaign"]').val(query["utm_campaign"]);
+  }
+   if("utm_source" in query){
+  	jQuery('[name ="utm_source"]').val(query["utm_source"]);
+  }
+   if("utm_medium" in query){
+  	jQuery('[name ="utm_medium"]').val(query["utm_medium"]);
+  }
+   if("utm_term" in query){
+  	jQuery('[name ="utm_term"]').val(query["utm_term"]);
+  }
+   if("utm_content" in query){
+  	jQuery('[name ="utm_content"]').val(query["utm_content"]);
+  }
+}
+
+if (
+    document.readyState === "complete" ||
+    (document.readyState !== "loading" && !document.documentElement.doScroll)
+) {
+  keep_url_query();
+} else {
+  document.addEventListener("DOMContentLoaded", keep_url_query);
+}
+ 
+</script>
 </head>
 <body>
   
@@ -269,7 +315,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <div class="col-lg-6 col-12 mbr-form anphabe-lead" data-form-type="anphabe-lead">
                 <form action="https://www.anphabe.com/aapi-lead/register" method="POST" class="mbr-form form-with-styler">
-                    <input type="hidden" id="product_name-dangky" name="product_name" value="workplace-lead">
+                    <input type="hidden" id="product_name-dangky" name="product_name" data-form-field="product_name" value="product_name">
+                    <input type="hidden" id="utm_campaign-dangky" name="utm_campaign" data-form-field="utm_campaign" value="">
+                    <input type="hidden" id="utm_source-dangky" name="utm_source" data-form-field="utm_source" value="">
+                    <input type="hidden" id="utm_medium-dangky" name="utm_medium" data-form-field="utm_medium" value="">
+                    <input type="hidden" id="utm_term-dangky" name="utm_term" data-form-field="utm_term" value="">
+                    <input type="hidden" id="utm_content-dangky" name="utm_content" data-form-field="utm_content" value="">
                     <div class="row">
                         
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some
@@ -648,7 +699,7 @@ nhất</p>
             </div>
         </div>
     </div>
-</section><section style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/o" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">This web page was built with Mobirise <a href="https://mobirise.site/u" style="color:#aaa;">web page</a> template.</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/playervimeo/vimeo_player.js"></script>  <script src="assets/formstyler/jquery.formstyler.js"></script>  <script src="assets/formstyler/jquery.formstyler.min.js"></script>  <script src="assets/datepicker/jquery.datetimepicker.full.js"></script>  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>  <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/u" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Start your own <a href="https://mobirise.site/y" style="color:#aaa;">website</a> with Mobirise.</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/playervimeo/vimeo_player.js"></script>  <script src="assets/formstyler/jquery.formstyler.js"></script>  <script src="assets/formstyler/jquery.formstyler.min.js"></script>  <script src="assets/datepicker/jquery.datetimepicker.full.js"></script>  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>  <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R"
