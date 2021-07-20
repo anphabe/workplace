@@ -71,8 +71,6 @@
     "gdpr": false,
     "witsec-mailform": false,
     "witsec-white-label": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/truyenthong-v2",
     "mbrsiteDomain": "wgfq8heitv",
     "witsec-language": false
   },
