@@ -826,39 +826,6 @@
             },
             ".fa-check-square-o:before": {
               "content": "\"\\f046\""
-            },
-            ".carousel-indicators": {
-              "position": "absolute",
-              "bottom": "0",
-              "margin-bottom": "1.5rem !important",
-              "li": {
-                "max-width": "15px",
-                "height": "15px",
-                "width": "15px",
-                "max-height": "15px",
-                "margin": "3px",
-                "background-color": "rgba(0, 0, 0, 0.5)",
-                "border": "2px solid #fff",
-                "border-radius": "50%",
-                "opacity": "0.5",
-                "transition": "all 0.3s",
-                "&.active, &:hover": {
-                  "opacity": "0.9"
-                },
-                "&::after, &::before": {
-                  "content": "none"
-                }
-              },
-              "&.ie-fix": {
-                "left": "50%",
-                "display": "block",
-                "width": "60%",
-                "margin-left": "-30%",
-                "text-align": "center"
-              },
-              "@media (max-width: 768px)": {
-                "display": "none !important"
-              }
             }
           },
           "_name": "features15",
@@ -938,39 +905,6 @@
             },
             ".fa-check-square-o:before": {
               "content": "\"\\f046\""
-            },
-            ".carousel-indicators": {
-              "position": "absolute",
-              "bottom": "0",
-              "margin-bottom": "1.5rem !important",
-              "li": {
-                "max-width": "15px",
-                "height": "15px",
-                "width": "15px",
-                "max-height": "15px",
-                "margin": "3px",
-                "background-color": "rgba(0, 0, 0, 0.5)",
-                "border": "2px solid #fff",
-                "border-radius": "50%",
-                "opacity": "0.5",
-                "transition": "all 0.3s",
-                "&.active, &:hover": {
-                  "opacity": "0.9"
-                },
-                "&::after, &::before": {
-                  "content": "none"
-                }
-              },
-              "&.ie-fix": {
-                "left": "50%",
-                "display": "block",
-                "width": "60%",
-                "margin-left": "-30%",
-                "text-align": "center"
-              },
-              "@media (max-width: 768px)": {
-                "display": "none !important"
-              }
             }
           },
           "_name": "features16",
