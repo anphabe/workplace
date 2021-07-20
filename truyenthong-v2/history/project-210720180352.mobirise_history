@@ -72,7 +72,9 @@
     "witsec-mailform": false,
     "witsec-white-label": true,
     "mbrsiteDomain": "0pche6kggz",
-    "witsec-language": "vi"
+    "witsec-language": "vi",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
