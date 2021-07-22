@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - V2",
-    "currentPage": "thankyou.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -73,9 +73,9 @@
     "witsec-white-label": true,
     "mbrsiteDomain": "mf83p0cnep",
     "witsec-language": "vi",
-    "global_header_custom": "<meta property=\"og:site_name\" content=\"workplace.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://workplace.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://workplace.anphabe.com/truyenthong-v2/assets/images/social-share.jpg\">\n<meta property=\"og:image\" content=\"https://workplace.anphabe.com/truyenthong-v2/assets/images/social-share.jpg\">\n\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KG2VC3R');</script>\n<!-- End Google Tag Manager -->\n",
-    "global_footer_custom": "<script src=\"assets/al/al.min.js\"></script>",
-    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A141732%2C%22domain%22%3A%22mf83p0cnep.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -83,9 +83,10 @@
         "main": true,
         "title": "Workplace from Facebook I ANPHABE",
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KG2VC3R');</script>\n<!-- End Google Tag Manager -->\n\n\n\n<script>\nfunction getUrlVars()\n{\n    var vars = [], hash;\n    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');\n    for(var i = 0; i < hashes.length; i++)\n    {\n        hash = hashes[i].split('=');\n        vars.push(hash[0]);\n        vars[hash[0]] = hash[1];\n    }\n    return vars;\n}\n\nfunction keep_url_query(){\n  var query = getUrlVars();\n  if(\"utm_campaign\" in query){\n  \tjQuery('[name =\"utm_campaign\"]').val(query[\"utm_campaign\"]);\n  }\n   if(\"utm_source\" in query){\n  \tjQuery('[name =\"utm_source\"]').val(query[\"utm_source\"]);\n  }\n   if(\"utm_medium\" in query){\n  \tjQuery('[name =\"utm_medium\"]').val(query[\"utm_medium\"]);\n  }\n   if(\"utm_term\" in query){\n  \tjQuery('[name =\"utm_term\"]').val(query[\"utm_term\"]);\n  }\n   if(\"utm_content\" in query){\n  \tjQuery('[name =\"utm_content\"]').val(query[\"utm_content\"]);\n  }\n}\n\nif (\n    document.readyState === \"complete\" ||\n    (document.readyState !== \"loading\" && !document.documentElement.doScroll)\n) {\n  keep_url_query();\n} else {\n  document.addEventListener(\"DOMContentLoaded\", keep_url_query);\n}\n \n</script>",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n <script src=\"assets/al/al.min.js\"></script>",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/social-share-4.png"
       },
       "components": [
         {
@@ -1498,9 +1499,9 @@
         "title": "Workplace from Facebook I ANPHABE - Thank You",
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
-        "footer_custom": "",
-        "header_custom": "",
-        "html_before": ""
+        "meta_image": "@PROJECT_PATH@/assets/images/social-share-4.png",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n <script src=\"assets/al/al.min.js\"></script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KG2VC3R');</script>\n<!-- End Google Tag Manager -->"
       },
       "components": [
         {
