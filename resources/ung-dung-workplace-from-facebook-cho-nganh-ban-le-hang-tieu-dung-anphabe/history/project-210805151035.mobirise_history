@@ -75,7 +75,9 @@
     "witsec-language": "vi",
     "global_header_custom": "<meta property=\"og:site_name\" content=\"workplace.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"\thttps://workplace.anphabe.com/resources/ung-dung-workplace-from-facebook-cho-nganh-ban-le-hang-tieu-dung-anphabe/\"/>\n<meta name=\"twitter:image:src\" content=\"https://workplace.anphabe.com/resources/ung-dung-workplace-from-facebook-cho-nganh-ban-le-hang-tieu-dung-anphabe/assets/images/social-share.png\">\n<meta property=\"og:image\" content=\"https://workplace.anphabe.com/resources/ung-dung-workplace-from-facebook-cho-nganh-ban-le-hang-tieu-dung-anphabe/assets/images/social-share.png\">\n\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KG2VC3R');</script>\n<!-- End Google Tag Manager -->\n",
     "global_footer_custom": "<script src=\"assets/al/al.min.js\"></script>",
-    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "thankyou.html": {
@@ -542,11 +544,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><br>Hi vọng bạn tìm thấy nhiều thông tin bổ ích từ tài liệu này.\n<br>Để được tư vấn và trải nghiệm Workplace from Facebook dành cho doanh nghiệp, bạn đừng ngại liên hệ Anphabe! \n<br>\n<br>Hotline: (84 28) 6268 2222, ext. 107 \n<br>Email: <a href=\"mailto:clientsolution@anphabe.com\" class=\"text-primary\">clientsolution@anphabe.com</a>  \n<br>Website: <a href=\"https://workplace.anphabe.com/\" class=\"text-primary\">https://workplace.anphabe.com</a><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sFcgxkfsjc",
-          "_anchor": "content5-29",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content5-29"
         },
         {
           "alias": false,
