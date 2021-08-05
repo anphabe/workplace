@@ -1638,6 +1638,17 @@ a {
 .cid-saD9d7D7RR .form-control {
   font-size: 1rem!important;
 }
+.cid-saD9d7D7RR .form-title {
+  font-size: 26px !important;
+}
+@media (max-width: 768px) {
+  .cid-saD9d7D7RR .head-title {
+    font-size: 22px;
+  }
+  .cid-saD9d7D7RR .form-title {
+    font-size: 22px !important;
+  }
+}
 .cid-saDuKlPG0k {
   padding-top: 6rem;
   padding-bottom: 0rem;
