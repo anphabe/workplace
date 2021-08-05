@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - Tài liệu Truyền thông thời Covid",
-    "currentPage": "thankyou.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1333,7 +1333,7 @@
               "margin": "0 auto"
             },
             ".mbr-text": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "content6",
