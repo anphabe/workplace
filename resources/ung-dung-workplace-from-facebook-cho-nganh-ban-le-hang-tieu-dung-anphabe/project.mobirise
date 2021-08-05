@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - Tài liệu Truyền thông thời Covid",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -82,7 +82,7 @@
       "settings": {
         "title": " Tải tài liệu I ANPHABE",
         "order": 3,
-        "meta_descr": "TÀI LIỆU MIỄN PHÍ CHO DOANH NGHIỆP| ANPHABE\nDành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
+        "meta_descr": "Dành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
         "footer_custom": "",
         "header_custom": "",
         "html_before": ""
@@ -806,8 +806,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ỨNG DỤNG WORKPLACE FROM FACEBOOK CHO DOANH NGHIỆP NGÀNH BÁN LẺ & HÀNG TIÊU DÙNG I ANPHABE",
-        "meta_descr": "TÀI LIỆU MIỄN PHÍ CHO DOANH NGHIỆP| ANPHABE\nDành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
+        "title": "TÀI LIỆU MIỄN PHÍ CHO DOANH NGHIỆP | ANPHABE",
+        "meta_descr": "Dành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
