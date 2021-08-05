@@ -1588,6 +1588,14 @@ a {
     left: -1rem;
   }
 }
+@media (max-width: 768px) {
+  .cid-saCY6nrHGK .navbar .navbar-brand {
+    padding-right: 0;
+  }
+  .cid-saCY6nrHGK .navbar .navbar-logo img {
+    height: 3rem !important;
+  }
+}
 .cid-saD9d7D7RR {
   padding-top: 4rem;
   padding-bottom: 5rem;
