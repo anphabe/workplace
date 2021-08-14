@@ -1113,6 +1113,9 @@ a {
 .cid-saD30dhvPM .mbr-section-title {
   color: #ff9a00;
 }
+.cid-saD30dhvPM .card-title {
+  color: #ff9a00;
+}
 .cid-saD4YPExoD {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -1120,6 +1123,51 @@ a {
 }
 .cid-saD4YPExoD .mbr-section-title {
   color: #ffffff;
+}
+.cid-sG4up7bldT {
+  background-color: #f9fafb;
+  min-height: 80vh;
+}
+.cid-sG4up7bldT .row {
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .cid-sG4up7bldT .image-wrapper {
+    margin-bottom: 0rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sG4up7bldT .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-sG4up7bldT ul.list-layout2 {
+  margin: 0;
+  padding: 10px 0 0;
+  list-style: none;
+  clear: both;
+  overflow: hidden;
+}
+.cid-sG4up7bldT li {
+  display: flex;
+  line-height: 1.8;
+  text-align: left;
+}
+.cid-sG4up7bldT .mbri-question {
+  font-size: 40px;
+  font-weight: bold;
+  padding-right: 12px;
+  transition: all 0.3s;
+  color: #ff9c00;
+  margin-top: 7px;
+  margin-left: 2px;
+}
+.cid-sG4up7bldT .mbr-section-title {
+  color: #ff9a00;
+}
+.cid-sG4up7bldT .card-title {
+  color: #ff9a00;
 }
 .cid-sFYNON1cWG {
   padding-top: 1.5rem;
@@ -1243,6 +1291,47 @@ a {
 }
 .cid-sFYNON1cWG .carousel-control-prev span {
   padding-right: 5px;
+}
+.cid-sG4uPevYhR {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background: #fafafa;
+}
+.cid-sG4uPevYhR .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-sG4uPevYhR .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-sG4uPevYhR .card-wrap {
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-sG4uPevYhR .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sG4uPevYhR .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-sG4uPevYhR .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sG4uPevYhR .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-sG4uPevYhR .card-text,
+.cid-sG4uPevYhR .mbr-section-btn {
+  text-align: left;
+}
+.cid-sG4uPevYhR .card-title {
+  text-align: left;
 }
 .cid-saD7AQogj2 {
   padding-top: 1.5rem;
@@ -1370,6 +1459,47 @@ a {
 .cid-saD7AQogj2 .carousel-control-prev span {
   padding-right: 5px;
 }
+.cid-sG4wHME3vm {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background: #fafafa;
+}
+.cid-sG4wHME3vm .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-sG4wHME3vm .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-sG4wHME3vm .card-wrap {
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-sG4wHME3vm .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sG4wHME3vm .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-sG4wHME3vm .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sG4wHME3vm .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-sG4wHME3vm .card-text,
+.cid-sG4wHME3vm .mbr-section-btn {
+  text-align: left;
+}
+.cid-sG4wHME3vm .card-title {
+  text-align: left;
+}
 .cid-sFYS8gmu2m {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -1492,6 +1622,47 @@ a {
 }
 .cid-sFYS8gmu2m .carousel-control-prev span {
   padding-right: 5px;
+}
+.cid-sG4zrQ3X6c {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background: #fafafa;
+}
+.cid-sG4zrQ3X6c .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-sG4zrQ3X6c .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-sG4zrQ3X6c .card-wrap {
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-sG4zrQ3X6c .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sG4zrQ3X6c .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-sG4zrQ3X6c .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sG4zrQ3X6c .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-sG4zrQ3X6c .card-text,
+.cid-sG4zrQ3X6c .mbr-section-btn {
+  text-align: left;
+}
+.cid-sG4zrQ3X6c .card-title {
+  text-align: left;
 }
 .cid-saD9329W1a {
   padding-top: 0rem;
