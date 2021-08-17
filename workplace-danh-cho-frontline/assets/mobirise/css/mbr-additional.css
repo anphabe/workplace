@@ -1887,6 +1887,9 @@ a {
     text-align: left!important;
   }
 }
+.cid-saD9d7D7RR .row {
+  flex-direction: row-reverse;
+}
 .cid-saDuKlPG0k {
   padding-top: 8rem;
   padding-bottom: 0rem;
