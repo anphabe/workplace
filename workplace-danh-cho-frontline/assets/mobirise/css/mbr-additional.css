@@ -1243,20 +1243,17 @@ a {
 }
 @media (max-width: 767px) {
   .cid-sFYNON1cWG .content-wrapper {
-    padding: 1rem;
+    padding: 1rem 0;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .cid-sFYNON1cWG .content-wrapper {
-    padding: 2rem;
+    padding: 2rem 0;
   }
 }
 @media (min-width: 992px) {
   .cid-sFYNON1cWG .content-wrapper {
     padding: 0rem 3rem;
-  }
-  .cid-sFYNON1cWG .content-wrapper .text-wrapper {
-    padding-left: 2rem;
   }
 }
 .cid-sFYNON1cWG .card-title {
@@ -1458,12 +1455,12 @@ a {
 }
 @media (max-width: 767px) {
   .cid-saD7AQogj2 .content-wrapper {
-    padding: 1rem;
+    padding: 1rem 0;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .cid-saD7AQogj2 .content-wrapper {
-    padding: 2rem;
+    padding: 2rem 0;
   }
 }
 @media (min-width: 992px) {

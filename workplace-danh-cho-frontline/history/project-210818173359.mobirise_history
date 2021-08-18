@@ -825,7 +825,7 @@
                 }
               },
               "@media (max-width: 767px)": {
-                "padding": "1rem 0"
+                "padding": "1rem"
               },
               "@media (min-width: 768px) and (max-width: 991px)": {
                 "padding": "2rem 0"
