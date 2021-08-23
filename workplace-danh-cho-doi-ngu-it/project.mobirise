@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - for-it",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -88,7 +88,7 @@
         "main": true,
         "title": "Công cụ cộng tác dành cho đội ngũ CNTT | Workplace from Facebook I ANPHABE",
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1599,7 +1599,7 @@
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace For COM",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -88,7 +88,7 @@
         "main": true,
         "title": "Công cụ cộng tác dành cho đội ngũ Truyền Thông | Workplace from Facebook I ANPHABE",
         "meta_descr": "Workplace hỗ trợ đội ngũ Truyền thông làm việc hiệu quả hơn do thúc đẩy hoạt động tương tác bằng hoạt động truyền thông chiến lược, tăng cường sự hiện diện của lãnh đạo và củng cố văn hóa công ty.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1580,7 +1580,7 @@
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [

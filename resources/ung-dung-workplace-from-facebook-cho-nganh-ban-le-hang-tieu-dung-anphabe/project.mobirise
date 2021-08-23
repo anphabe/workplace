@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - Tài liệu Truyền thông thời Covid",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -84,7 +84,7 @@
         "order": 3,
         "meta_descr": "Dành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [
@@ -707,7 +707,7 @@
         "main": true,
         "title": "TÀI LIỆU MIỄN PHÍ CHO DOANH NGHIỆP | ANPHABE",
         "meta_descr": "Dành riêng cho ngành Bán lẻ & Hàng tiêu dùng. Tải ngay!",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "footer_custom": "",
         "html_before": ""
       },

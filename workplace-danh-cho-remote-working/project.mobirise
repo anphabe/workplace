@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace For remote working",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -88,7 +88,7 @@
         "main": true,
         "title": "Workplace Duy trì kết nối cho nhân viên làm việc từ xa | Workplace from Facebook I ANPHABE",
         "meta_descr": "Không có nhân viên nào muốn bị cô lập cả. Workplace sử dụng các công cụ đơn giản và quen thuộc để kết nối mọi người, cung cấp thông tin và giúp họ làm việc năng suất ngay cả khi ở xa.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1722,7 +1722,7 @@
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [

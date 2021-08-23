@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace - V2",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -71,11 +71,13 @@
     "gdpr": false,
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "mbrsiteDomain": "mf83p0cnep",
+    "mbrsiteDomain": "lsstobyjtf",
     "witsec-language": "vi",
     "global_header_custom": "<meta property=\"og:site_name\" content=\"workplace.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://workplace.anphabe.com/truyenthong-v2\"/>\n<meta name=\"twitter:image:src\" content=\"https://workplace.anphabe.com/truyenthong-v2/assets/images/social-share.jpg\">\n<meta property=\"og:image\" content=\"https://workplace.anphabe.com/truyenthong-v2/assets/images/social-share.jpg\">\n\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KG2VC3R');</script>\n<!-- End Google Tag Manager -->\n",
     "global_footer_custom": "<script src=\"assets/al/al.min.js\"></script>",
-    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KG2VC3R\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -83,8 +85,8 @@
         "main": true,
         "title": "Workplace from Facebook I ANPHABE",
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
-        "header_custom": "",
-        "footer_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
+        "footer_custom": "\n",
         "html_before": ""
       },
       "components": [
@@ -1574,7 +1576,7 @@
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [

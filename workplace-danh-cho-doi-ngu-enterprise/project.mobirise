@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workplace For Cộng đồng",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -88,7 +88,7 @@
         "main": true,
         "title": "Workplace Công cụ bảo mật để biến công ty thành cộng đồng | Workplace from Facebook I ANPHABE",
         "meta_descr": "Workplace thu hẹp khoảng cách trong công ty lớn bằng cách sử dụng những công cụ quen thuộc và bảo mật để kết nối và dẫn lối mọi người về một quan điểm chung.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1582,7 +1582,7 @@
         "order": 1,
         "meta_descr": "Nền tảng truyền thông, hợp tác nội bộ, gia tăng gắn kết, sáng tạo và hiệu suất làm việc.",
         "footer_custom": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"eskryss5mu3nd6ii839t430680129i\" />\n",
         "html_before": ""
       },
       "components": [
