@@ -60,7 +60,7 @@
     ],
     "imageResize": false,
     "uniqCompNum": 30,
-    "versionPublish": "5.5.0",
+    "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "robotsSwitcher": false,
