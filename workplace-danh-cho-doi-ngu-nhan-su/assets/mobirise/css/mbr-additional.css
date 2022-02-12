@@ -1433,11 +1433,9 @@ a {
 .cid-sGqWREc4JA .mbr-section-btn {
   color: #333333;
 }
-@media (max-width: 991px) {
-  .cid-sGqWREc4JA .mbr-text,
-  .cid-sGqWREc4JA .mbr-section-title {
-    text-align: center;
-  }
+.cid-sGqWREc4JA .mbr-text,
+.cid-sGqWREc4JA .mbr-section-title {
+  text-align: center;
 }
 .cid-sGqWREc4JA a.btn {
   height: 100%;

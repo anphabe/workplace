@@ -1542,11 +1542,9 @@ a {
 .cid-saD9d7D7RR .mbr-section-btn {
   color: #333333;
 }
-@media (max-width: 991px) {
-  .cid-saD9d7D7RR .mbr-text,
-  .cid-saD9d7D7RR .mbr-section-title {
-    text-align: center;
-  }
+.cid-saD9d7D7RR .mbr-text,
+.cid-saD9d7D7RR .mbr-section-title {
+  text-align: center;
 }
 .cid-saD9d7D7RR a.btn {
   height: 100%;
