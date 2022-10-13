@@ -90,7 +90,7 @@
     ],
     "imageResize": false,
     "uniqCompNum": 51,
-    "versionPublish": "5.5.0",
+    "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "robotsSwitcher": false,
